@@ -65,6 +65,7 @@ export default {
 				premium: {
 					blue: '#87CEEB',
 					darkBlue: '#4682B4',
+					navy: '#1E3A8A',
 					lightBlue: '#E0F6FF',
 					cream: '#FFF8DC',
 					white: '#FFFFFF',

@@ -82,7 +82,7 @@ const Index = () => {
           <p className="text-xl text-premium-darkGray mb-8 max-w-2xl mx-auto animate-fade-in">
             Откройте мир изысканной элегантности с коллекцией SELUN
           </p>
-          <Button className="bg-premium-blue text-premium-white hover:bg-premium-darkBlue px-8 py-3 text-lg font-medium transition-all hover:scale-105">
+          <Button className="bg-premium-navy text-premium-white hover:bg-premium-darkBlue px-8 py-3 text-lg font-medium transition-all hover:scale-105">
             Смотреть коллекцию
           </Button>
         </div>
