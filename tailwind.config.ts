@@ -63,11 +63,13 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				premium: {
-					black: '#000000',
-					gold: '#C9A96E',
+					blue: '#87CEEB',
+					darkBlue: '#4682B4',
+					lightBlue: '#E0F6FF',
+					cream: '#FFF8DC',
 					white: '#FFFFFF',
-					gray: '#F5F5F5',
-					darkGray: '#8E8E8E'
+					gray: '#F8F9FA',
+					darkGray: '#6C757D'
 				}
 			},
 			fontFamily: {
